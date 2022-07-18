@@ -7,6 +7,10 @@ public class Gato {
     private String cor;
     private Integer idade;
 
+    public Gato() {
+
+    }
+
     public String getNome() {
         return nome;
     }
